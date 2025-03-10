@@ -1,10 +1,10 @@
-# Simple String Calculator
+# Flight booking system
 
-This directory is a brief example of a [Simple String Calculator](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+This directory is a brief example of a [Flight booking system](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
 
-Simple String Calculator deployed with Vercel.
+Flight booking system deployed with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
 

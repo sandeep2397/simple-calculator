@@ -88,6 +88,12 @@
     "build": "node scripts/build.js",
     "test": "jest"
   },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
